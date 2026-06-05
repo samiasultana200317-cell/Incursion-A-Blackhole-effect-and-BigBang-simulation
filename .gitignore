@@ -1,0 +1,41 @@
+# Python Cache and Compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+lib/
+bin/
+include/
+
+# Dear ImGui local state
+imgui.ini
+blackhole_sim/imgui.ini
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS generated files
+Thumbs.db
+Ehthumbs.db
+Desktop.ini
+
+# Development scratch files
+scratch/
+
+# Large videos
+*graphics design project.mp4
