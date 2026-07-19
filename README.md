@@ -21,7 +21,7 @@ A high-fidelity Python + OpenGL 3.3 Core Profile simulation engine modeling gene
 ---
 ## 👥 Team Project & My Contributions
 
-This repository is a fork of the original team project developed collaboratively by multiple contributors. My primary responsibilities in the project included:
+This repository is a fork of the original team project developed collaboratively by multiple contributors for an academic purpose. My primary responsibilities in the project included:
 
 ### Physics Implementation
 - Implemented and refined core physics algorithms for gravitational interactions.
