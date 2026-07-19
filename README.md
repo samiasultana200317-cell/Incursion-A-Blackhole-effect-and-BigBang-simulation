@@ -19,7 +19,21 @@ A high-fidelity Python + OpenGL 3.3 Core Profile simulation engine modeling gene
 </p>
 
 ---
+## 👥 Team Project & My Contributions
 
+This repository is a fork of the original team project developed collaboratively by multiple contributors. My primary responsibilities in the project included:
+
+### Physics Implementation
+- Implemented and refined core physics algorithms for gravitational interactions.
+- Contributed to the N-body gravitational simulation using Velocity Verlet integration.
+- Assisted in developing orbital mechanics, gravitational collapse behavior, and black hole interaction logic.
+- Participated in testing and tuning simulation parameters to improve realism and stability.
+
+### Documentation
+- Contributed to writing and improving the project documentation.
+- Helped prepare technical documentation explaining the simulation architecture, physics methodology, and project workflow.
+- Improved project organization and README content for better usability and maintainability.
+  
 ## 🚀 Key Features
 
 *   **Deferred Rendering & HDR Pipeline**: A Multi-Render Target (MRT) framebuffer utilizing 16-bit floating-point textures (`GL_RGBA16F`) to capture high-dynamic-range brightness without color clipping.
